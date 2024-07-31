@@ -1,0 +1,12 @@
+1, Razer Blade, Razer, 2000, 3, i7 7th Gen, GTX 3060
+2, XPS, Dell, 1976, 4, i5 9th Gen, GTX 3070
+3, Alienware, Alienware, 1978, 10, i5 9th Gen, GTX 3070
+4, Swift 7, Acer, 900, 12, i5 9th Gen, GTX 3070
+5, Macbook Pro 16, Apple, 3500, 8, i5 9th Gen, GTX 3070
+6, Asus tuf f15, Asus, 1200, 9, i5 11th Gen, RTX 3050
+7, Acer 5, Acer, 1500, 10, i7 11th Gen, RTX 3060
+8, HP Omen, HP, 1200, 10, i5 11th Gen, RTX 3050
+9, MSI 4, MSI, 1000, 8, i5 13th Gen, GTX 1650ti
+10, acer4, acer, 1000, 4, i7 10th Gen, GTX 3060
+11, Acer 6, Acer, 1200, 5, i9 11th Gen, GTX 3060
+12, Asus tuf a15, Asus, 1500, 4, i7 11th Gen, GTX 3080
